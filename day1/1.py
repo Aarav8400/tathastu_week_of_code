@@ -1,0 +1,6 @@
+name=input()
+branch=input()
+gender=input()
+college=input()
+age=int(input())
+print(f'{name}\n {branch}\n{gender}\n{college}\n{age}\n')
